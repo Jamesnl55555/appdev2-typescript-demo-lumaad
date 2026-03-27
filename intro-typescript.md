@@ -54,5 +54,8 @@ Based on my experience:
 ## 04-arrays-objects.ts
 Covers arrays with union types, object typing with nested properties, and the `Record` type for flexible objects.
 
+Based on my experience:
+ - The purpose of this file is to show how to make objects
+
 ## 05-enum.ts
 Introduces enums, specifically string enums, and shows how to assign `enum` values properly.
