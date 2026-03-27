@@ -64,5 +64,13 @@ Based on my experience:
  - The purpose of this file is to show how to use enum
 
  ## 06-alternative-to-enum.ts
+
  Based on my experience:
  - The purpose of this file is to show the alternative of `enum`
+
+ ## 07-custom-type-role.ts
+
+  Based on my experience:
+ - The purpose of this file is to show how to create a custom type, usually we have data type such as boolean, number, or string. Now, we can create our own type and we can use it on objects.
+
+ 

@@ -1,3 +1,5 @@
+(() => {
+  
 // Literal Types (Alternative to Enum)
 let userRole: 'admin' | 'guess' | 'teacher' | 'student' = 'admin'
 
@@ -12,3 +14,4 @@ function access(role: 'admin' | 'guess' | 'teacher' | 'student') {
 }
 
 access(userRole)
+})
