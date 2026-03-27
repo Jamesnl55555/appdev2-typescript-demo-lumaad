@@ -87,3 +87,7 @@ Based on my experience:
 
 Based on my experience:
  - The purpose of this file is to show how to get the access the input of the user without having errors such as using '!, ?' and 'as HTMLInputElement | null' to ensure that there is value in the input
+
+## 11-optional.ts
+ Based on my experience:
+ - The purpose of this file is to show how the line does not work without ';' and also ew could use '||' to in alternative of '??'
