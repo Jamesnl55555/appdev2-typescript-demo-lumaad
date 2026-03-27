@@ -90,4 +90,4 @@ Based on my experience:
 
 ## 11-optional.ts
  Based on my experience:
- - The purpose of this file is to show how the line does not work without ';' and also ew could use '||' to in alternative of '??'
+ - The purpose of this file is to show how the line does not work without ';' and also we could use '||' to in alternative of '??
