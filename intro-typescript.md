@@ -83,4 +83,7 @@ Based on my experience:
 Based on my experience:
  - The purpose of this file is to show how to use the special types such as null and undefined, we could even make a variable have two types using '|'
 
+## 10-form.html and 10-type-narrowing.ts
 
+Based on my experience:
+ - The purpose of this file is to show how to get the access the input of the user without having errors such as using '!, ?' and 'as HTMLInputElement | null' to ensure that there is value in the input
