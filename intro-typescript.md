@@ -37,16 +37,19 @@ tsc filename.ts
 Demonstrates **type inference**, **explicit typing**, and what happens when assigning mismatched types.
 
 Based on my experience:
- - The purpose of this file shows that we can override the set data on the previous lines by making a new value inside the variable, however it would not override the data type because the data type would be set the first time the variable is made with a value or data type
+ - The purpose of this file shows that we can override the set data on the previous lines by making a new value inside the variable, however it would not override the data type because the data type would be set the first time the variable is made with a value or data type.
 
 ## 02-vanilla-js-types.js
 Shows how JavaScript’s `typeof` operator works to check variable types at runtime.
 
 Based on my experience:
- - The purpose of this file is to show what is the data type of a variable is by using typeof operator
+ - The purpose of this file is to show what is the data type of a variable is by using typeof operator.
 
 ## 03-flexible-types.ts
 Illustrates the `any` type, allowing reassignment to different types and showing its flexibility (and risks).
+
+Based on my experience:
+ - The purpose of this file is to show that the variable can have its value be reassigned using the `any` type.
 
 ## 04-arrays-objects.ts
 Covers arrays with union types, object typing with nested properties, and the `Record` type for flexible objects.
