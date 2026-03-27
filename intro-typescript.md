@@ -59,3 +59,6 @@ Based on my experience:
 
 ## 05-enum.ts
 Introduces enums, specifically string enums, and shows how to assign `enum` values properly.
+
+Based on my experience:
+ - The purpose of this file is to show how to use enum
