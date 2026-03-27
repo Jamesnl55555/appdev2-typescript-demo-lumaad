@@ -3,12 +3,14 @@ let a: null;
 
 a = null
 // a = "Hi"
-
-let b: null | string
+console.log(a)
+let b: null | string | number
 
 b = null
 b = "Hi"
-// b = 10
+b = 10
+
+console.log(b)
 
 // Special Type - undefined
 let c: undefined;
@@ -23,3 +25,4 @@ d = undefined
 d = "Hi"
 // d = null
 // d = 10
+console.log(d)

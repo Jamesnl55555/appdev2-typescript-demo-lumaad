@@ -73,4 +73,14 @@ Based on my experience:
   Based on my experience:
  - The purpose of this file is to show how to create a custom type, usually we have data type such as boolean, number, or string. Now, we can create our own type and we can use it on objects.
 
- 
+## 08-functions.ts
+
+Based on my experience:
+ to create - The purpose of this file is to show how to create functions, they functions can call functions, and objects can call functions too. We can also put it on void so as to return nothing, and type `error` so that it would return with error.
+
+## 09-special-types.ts
+
+Based on my experience:
+ - The purpose of this file is to show how to use the special types such as null and undefined, we could even make a variable have two types using '|'
+
+
