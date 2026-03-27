@@ -62,3 +62,7 @@ Introduces enums, specifically string enums, and shows how to assign `enum` valu
 
 Based on my experience:
  - The purpose of this file is to show how to use enum
+
+ ## 06-alternative-to-enum.ts
+ Based on my experience:
+ - The purpose of this file is to show the alternative of `enum`
