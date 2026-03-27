@@ -1,3 +1,8 @@
-let userName1 = "Elmer";
+let userName1 = "Lumaad";
+let userAge1 = 21;
 
-console.log(typeof userName1)
+let nameType = typeof userName1;
+let ageType = typeof userAge1;
+
+console.log('Name Type: ' + nameType);
+console.log('Age Type: ' + ageType);
