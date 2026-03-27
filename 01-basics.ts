@@ -1,3 +1,5 @@
+(() => {
+
 // console.log("Hello World!")
 
 let userName: string = "Elmer";
@@ -28,3 +30,5 @@ console.log(add(10))
 
 console.log(add(10, 6))
 //this will return 16 since these 2 parameters override the dataset in the function
+
+})

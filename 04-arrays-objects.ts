@@ -1,3 +1,5 @@
+(() => {
+    
 let hobbies = ["Eating", "Watching"]
 
 // hobbies.push(10)
@@ -66,3 +68,6 @@ data = {
 }
 
 console.log('This is the data object: ', data)
+
+
+})

@@ -1,4 +1,5 @@
-
+(()=> {
+    
 // Type Aliases or Custom Types
 // use `type` keyword to create custom type
 type Role = 'admin' | 'guess' | 'teacher' | 'student' | 'superadmin'
@@ -33,3 +34,5 @@ function access(role: Role) {
 access(userRole)
 
 console.log(user2)
+
+})
